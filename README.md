@@ -1,4 +1,5 @@
 # bpcloud
+## 基于Python原生库tkinter和houtianze大神的bypy实现的一个百度云Linux可视化客户端
 作品安装说明：
 请在对百度网盘未有限制或封禁的网络情况下使用。
 
