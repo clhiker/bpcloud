@@ -2,10 +2,10 @@
 作品安装说明：
 请在对百度网盘未有限制或封禁的网络情况下使用。
 
-# Linux（以Ubuntu16.04为例）：
-## 在文件夹bpcloud-linux下./bpcloud.sh进行认证，如果未使用过百度网盘可以首先申请百度网盘账号。认证时间5分钟以内
+## Linux（以Ubuntu16.04为例）：
+### 在文件夹bpcloud-linux下./bpcloud.sh进行认证，如果未使用过百度网盘可以首先申请百度网盘账号。认证时间5分钟以内
 关闭终端后./bpcloud.sh即可使用
-# 源码安装
+## 源码安装
 在bpcloud-src文件夹下
 Linux：
 sudo apt install python3-tk
