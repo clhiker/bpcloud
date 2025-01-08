@@ -9,10 +9,12 @@
 ## 源码安装
 在bpcloud-src文件夹下
 Linux：
+```shell
 sudo apt install python3-tk
 sudo apt install python3-pip
 pip3 install requests_toolbelt
 pip3 install configparser
+```
 
 ## 使用说明：
 源码安装在GUI文件夹下python3 bpcloud.py
